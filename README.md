@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24077951/README.md)
+[README (3).md](https://github.com/user-attachments/files/24078122/README.3.md)
 # AutoStartKit
 
 **Un outil simple et efficace pour gérer le démarrage automatique de vos programmes sous Windows.**
@@ -37,7 +37,7 @@ AutoStartKit/
 3. Votre programme est maintenant configuré pour se lancer automatiquement au démarrage de Windows.
 
 **Emplacement d'installation** :
-```
+
 %LOCALAPPDATA%\MonProgramme```
 
 ---
@@ -151,7 +151,6 @@ R : Oui, mais modifiez aussi les variables `FICHIER_CIBLE` dans les scripts Pyth
 
 **Version** : 1.0
 **Date** : Décembre 2025
-**Auteur** : MATEO BROSILLON
 
 ---
 
