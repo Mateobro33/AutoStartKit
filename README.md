@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/24078122/README.3.md)
 # AutoStartKit
 
 **Un outil simple et efficace pour gérer le démarrage automatique de vos programmes sous Windows.**
